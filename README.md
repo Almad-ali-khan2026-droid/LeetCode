@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
