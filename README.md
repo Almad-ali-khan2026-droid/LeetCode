@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -94,6 +95,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -186,4 +188,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
