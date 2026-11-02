@@ -16,6 +16,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -71,9 +72,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0389-find-the-difference/) | Easy |
@@ -83,6 +86,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0389-find-the-difference/) | Easy |
@@ -172,4 +176,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
