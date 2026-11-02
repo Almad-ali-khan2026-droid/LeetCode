@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Binary Search
@@ -36,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
