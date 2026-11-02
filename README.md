@@ -69,6 +69,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Newton's Method
@@ -78,10 +79,12 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
