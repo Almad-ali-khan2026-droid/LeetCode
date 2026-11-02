@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -167,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
