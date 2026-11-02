@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0031-next-permutation](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -75,6 +76,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
