@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -71,6 +72,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -79,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -144,4 +147,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
