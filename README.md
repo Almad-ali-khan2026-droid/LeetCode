@@ -67,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0223-rectangle-area](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0223-rectangle-area/) | Medium |
