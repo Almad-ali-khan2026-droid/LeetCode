@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -68,6 +69,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0443-string-compression/) | Medium |
