@@ -38,6 +38,7 @@
 | [0058-length-of-last-word](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@
 | [0231-power-of-two](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
