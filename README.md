@@ -43,10 +43,12 @@
 | [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
