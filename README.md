@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0031-next-permutation/) | Medium |
@@ -80,6 +81,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0268-missing-number/) | Easy |
