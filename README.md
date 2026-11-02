@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
