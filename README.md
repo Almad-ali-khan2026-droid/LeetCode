@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -143,6 +144,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0877-stone-game](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
