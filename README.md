@@ -39,6 +39,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0443-string-compression](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0443-string-compression/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/Almad-ali-khan2026-droid/LeetCode/tree/main/0443-string-compression/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
